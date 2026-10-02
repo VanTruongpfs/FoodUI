@@ -1,0 +1,7 @@
+Use case: precise-object-edit.
+Edit target: the provided img.png, a small transparent bowl illustration used in the FoodGo kiosk interface.
+Primary request: make this exact illustration sharp at high resolution. Reconstruct the existing contours as clean, smooth, crisp vector-like linework while preserving the original design.
+Preserve: the white bowl with a dark green-black outline (#17211F); the cream-colored semicircular food mound; the large salmon-orange circle on the left, green circle near the top middle, smaller salmon-orange circle on the right; the short dark dash between them; and the short horizontal base line below the bowl. Keep the same proportions, positions, flat colors, and line thickness relative to the artwork.
+Canvas: preserve the 16:15 aspect ratio, ideally 2048 x 1920 pixels. Preserve the original transparent framing: roughly 19% side margins, 15% top margin, and 29% bottom margin. No cropping or added objects.
+Background: genuine transparent alpha outside the artwork. Keep the opaque white inside the bowl and cream fill above it. Remove fuzzy white edge halos and pixelation.
+Avoid: shadows, gradients, 3D effects, textures, extra ingredients, text, labels, logos, watermarks, checkerboard patterns, and any opaque background.
